@@ -3,6 +3,17 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(90deg, #a259ff, #7b2ff7, #d291ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
 p {
   font-size: 20px;
 }
